@@ -122,7 +122,7 @@ No server. No dependencies.
 
 ## 👨‍💻 Author
 
-**Adarsh Singh**
+**Adarsh Kumar Singh**
 
 ---
 
