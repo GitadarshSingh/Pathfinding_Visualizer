@@ -105,7 +105,6 @@ No server. No dependencies.
 
 ## ⚠️ Limitations
 
-* No diagonal movement
 * Uniform grid cost
 * Single-source to single-destination
 
